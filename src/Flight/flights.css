@@ -1,0 +1,25 @@
+
+.fly{
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  color: white;
+}
+.header{
+  font-weight: bold;
+  text-align: center;
+  font-size: 36px;
+  color: white;
+}
+.fly .head{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 96px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+}
+.fly .rsm{
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("flight.jpg");
+  background-size: cover;
+  color: rgb(236, 234, 234);
+}

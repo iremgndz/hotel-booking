@@ -1,0 +1,23 @@
+.navbarr{
+    background-color: #003580;
+    background-size: cover;
+    margin-top:-20px;
+    height: 90px;
+    padding: 40px; 
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.select{
+    margin-top: 0px;
+    margin-left: -80px;
+}
+.title{
+    margin-left: 360px;
+    width: 430px;
+    margin-top: 50px;
+    font-size: 16px;
+}
+.navbar_{
+    background-color:rgb(242, 241, 238) ;
+    height: 450px;
+}
